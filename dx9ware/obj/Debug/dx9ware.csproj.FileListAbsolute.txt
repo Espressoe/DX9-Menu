@@ -1,0 +1,15 @@
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\bin\Debug\dx9ware.exe.config
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\bin\Debug\dx9ware.exe
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\bin\Debug\dx9ware.pdb
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\bin\Debug\Guna.UI2.dll
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.csproj.AssemblyReference.cache
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.Form1.resources
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.overlay.resources
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.Properties.Resources.resources
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.csproj.GenerateResource.cache
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.csproj.CoreCompileInputs.cache
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.csproj.CopyComplete
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.exe
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\obj\Debug\dx9ware.pdb
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\bin\Debug\VisualStudioTabControl.pdb
+C:\Users\chipp.DESKTOP-FI0GJD9\source\repos\dx9ware\dx9ware\bin\Debug\VisualStudioTabControl.dll.config
